@@ -1,0 +1,4 @@
+basically, start with 2, and keep adding up even numbers until you hit N.
+If the sum is greater than N, start with 2 and go up, subtracting that from the sum.
+Continue until it hits N.
+If it dips below N again, add 2 and continue up until it hits N 
